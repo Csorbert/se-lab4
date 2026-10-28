@@ -1,0 +1,4 @@
+# SINGLE: To give some cooling time to the torpedo stores, torpedo stores are fired alternating.
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
