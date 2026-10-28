@@ -1,0 +1,5 @@
+# return value: true if at least one torpedo was fired
+GT4500,1,1,1,0
+TORPEDO,ALL
+GT4500,1,1,1,1
+TORPEDO,ALL

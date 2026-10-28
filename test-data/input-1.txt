@@ -1,0 +1,3 @@
+# SINGLE: For the first time the primary store is fired.
+GT4500,1,0,1,1
+TORPEDO,SINGLE
